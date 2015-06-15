@@ -1,0 +1,10 @@
+{
+    "name": "KLC16Box",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "KLC16Box.xml",
+    "author": "Valerie6D",
+    "minimum_firmware_version": 42
+}
